@@ -5,8 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // Set base for GitHub Pages deployment
-  // Change 'SPAIRL-X-VAL' to your actual repository name
-  base: process.env.NODE_ENV === 'production' ? '/SPAIRL-X-VAL/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/Valuation_Platform/' : '/',
   build: {
     outDir: 'dist',
     sourcemap: false,
