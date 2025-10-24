@@ -1,0 +1,23 @@
+<!-- Placeholder SVG icon for the Property Valuation Platform -->
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="96" cy="96" r="96" fill="#0ea5e9"/>
+  
+  <!-- House icon -->
+  <path d="M96 40L140 80V160H52V80L96 40Z" fill="white" stroke="white" stroke-width="2"/>
+  
+  <!-- Door -->
+  <rect x="80" y="120" width="32" height="40" fill="#0ea5e9"/>
+  
+  <!-- Windows -->
+  <rect x="60" y="100" width="20" height="20" fill="#0ea5e9"/>
+  <rect x="112" y="100" width="20" height="20" fill="#0ea5e9"/>
+  
+  <!-- Camera icon overlay -->
+  <circle cx="96" cy="60" r="12" fill="#f59e0b"/>
+  <rect x="90" y="54" width="12" height="8" fill="white"/>
+  
+  <!-- GPS indicator -->
+  <circle cx="130" cy="50" r="8" fill="#10b981"/>
+  <path d="M130 42L130 58M122 50L138 50" stroke="white" stroke-width="2"/>
+</svg>
